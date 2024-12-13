@@ -1,0 +1,9 @@
+Manufacturer=CUI Inc.
+PartNumber=PDQE20-Q24-S12-D
+PartCategory=Power Supply
+PackageCategory=Other
+PinCount=6
+Version=2.2
+Released=2023-04-11 08:56:58
+Downloaded=2023-11-08 15:54:56
+3D=Y

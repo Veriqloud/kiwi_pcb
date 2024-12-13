@@ -1,0 +1,9 @@
+Manufacturer=CUI Inc.
+PartNumber=PQQ10W-Q24-S3-S
+PartCategory=Power Supply
+PackageCategory=Other
+PinCount=7
+Version=2.2
+Released=2021-03-08 13:45:52
+Downloaded=2023-11-08 16:18:02
+3D=Y

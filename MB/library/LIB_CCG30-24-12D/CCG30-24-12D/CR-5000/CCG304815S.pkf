@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "CCG304815S"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "CCG304815S")
+        (spec "default")
+    )
+)

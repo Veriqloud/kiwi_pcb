@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=MAX17577ATC+
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=13
+Version=2.1
+Released=2021-01-28 04:35:27
+Downloaded=2024-01-03 10:38:39
+3D=Y

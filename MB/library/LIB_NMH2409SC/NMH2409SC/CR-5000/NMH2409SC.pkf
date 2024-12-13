@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "NMH2409SC"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "NMH2409SC")
+        (spec "default")
+    )
+)

@@ -1,0 +1,18 @@
+.PDQE15-Q24-S5-D :1 ;Isolated DC/DC Converters isolated, 15 W, 9 36 Vdc input, 5 Vdc, 3 A, single regulated output, DIP
+PDQE15Q24S5D
+*STM PS
+*NGS
+*PLB 1="CTRL" 2="GND" 3="VIN" 4="+VO" 5="TRIM" 6="0V"
+*MXP 6
+*DFN PDQE15-Q24-S5-D
+~!Manufacturer_Name (CUI Inc.)
+~!Manufacturer_Part_Number (PDQE15-Q24-S5-D)
+~!Mouser Part Number (490-PDQE15-Q24-S5-D)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/CUI-Inc/PDQE15-Q24-S5-D?qs=T3oQrply3y8yHnuOOP2Yow%3D%3D)
+~!Arrow Part Number (PDQE15-Q24-S5-D)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/pdqe15-q24-s5-d/cui-inc?region=nac)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/ceff7f1d3fd8bffed708cbd63eb61e9c.pdf)
+~!Height (12.2mm)
+~!3D_Model (PDQE15-Q24-S5-D)
+PDQE15-Q24-S5-D
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

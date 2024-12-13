@@ -1,0 +1,65 @@
+(Japanese_coding: sjis)
+(function "ECS_353682"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-07-09-11:55:55)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "SDR0604-220YL")
+)
+
+
+(pinAssign "ECS_353682"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-07-09-11:55:55)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_353682")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SDR0604-220YL")
+)
+
+
+(part "SDR0604-220YL"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-07-09-11:55:55)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "SDR0604-220YL")
+    (pinAssignRef "ECS_353682")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "SDR0604 SMD Power Inductors 22uH 15% Bourns SDR0604 Series Wire-wound SMD Inductor with a Ferrite Core, 22 uH +/-15% Wire-Wound 1.1A Idc Q:30")
+    (property "Mouser_Part_Number" "652-SDR0604-220YL")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/SDR0604-220YL?qs=poxSNw7ZBQKY%2FvYQtEz2cg%3D%3D")
+    (property "Manufacturer_Name" "Bourns")
+    (property "Manufacturer_Part_Number" "SDR0604-220YL")
+    (property "Datasheet_Link" "https://componentsearchengine.com/Datasheets/2/SDR0604-220YL.pdf")
+)
+
+

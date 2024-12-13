@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RC0402FR-0735KL
+D GENERAL PURPOSE CHIP RESISTORS RC_L series +/-0.1%, +/-0.5%, +/-1%, +/-5% Sizes 0075/0100/0201/0402/0603/0805/ 1206/1210/1218/2010/2512 RoHS compliant & Halogen free
+K
+F https://www.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_9-1314892.pdf
+$ENDCMP
+#
+#End Doc Library

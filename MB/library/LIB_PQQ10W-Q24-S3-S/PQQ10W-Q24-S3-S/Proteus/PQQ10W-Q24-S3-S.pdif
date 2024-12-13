@@ -1,0 +1,139 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "PQQ10W-Q24-S3-S"
+   (description "Isolated DC/DC Converters dc-dc isolated, 10 W, 9 36 Vdc input, 3.3 Vdc, 2.4 A, single regulated output, SIP")
+   (family "ANA")
+   (package "PQQ10WQ24S3S")
+   (attribute "Datasheet Link" "https://www.mouser.jp/datasheet/2/670/pqq10w_s-1915167.pdf")
+   (attribute "Geometry.Height" "12.5mm")
+   (attribute "Manufacturer_Name" "CUI Inc.")
+   (attribute "Manufacturer_Part_Number" "PQQ10W-Q24-S3-S")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "PQQ10W-Q24-S3-S")
+    (pin "GND" 1 PS)
+    (pin "VIN" 2 PS)
+    (pin "CTRL" 3 PS)
+    (pin "NC_1" 5 PS)
+    (pin "+VO" 6 PS)
+    (pin "0V" 7 PS)
+    (pin "NC_2" 8 PS)
+   )
+  )
+  (symbol "PQQ10W-Q24-S3-S"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -700) (pt 200 -700) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "PQQ10WQ24S3S"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.11 2.7)
+      (pt 19.89 2.7)
+      (pt 19.89 -6.8)
+      (pt -2.11 -6.8)
+      (pt -2.11 2.7))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.11 2.7)
+      (pt 19.89 2.7)
+      (pt 19.89 -6.8)
+      (pt -2.11 -6.8)
+      (pt -2.11 2.7))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.11 3.7)
+      (pt 20.89 3.7)
+      (pt 20.89 -7.8)
+      (pt -3.11 -7.8)
+      (pt -3.11 3.7))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.6 0)
+      (arc (pt -2.600 0.000) (pt -2.600 -0.050) (pt -2.500 0.050) (start 180.0) (sweep 180.0))
+      (pt -2.5 0)
+      (arc (pt -2.500 0.000) (pt -2.600 -0.050) (pt -2.500 0.050) (start 180.0) (sweep .0))
+      (pt -2.6 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 2.540 0.000) (padstack 0))
+   (leg 3 (pt 5.080 0.000) (padstack 0))
+   (leg 5 (pt 10.160 0.000) (padstack 0))
+   (leg 6 (pt 12.700 0.000) (padstack 0))
+   (leg 7 (pt 15.240 0.000) (padstack 0))
+   (leg 8 (pt 17.780 0.000) (padstack 0))
+   (padstack 0
+    (hole 1)
+    (plated true)
+    (pad (layer TCOP) (round 1.500))
+    (pad (layer INNER) (round 1.500))
+    (pad (layer BCOP) (round 1.500))
+   )
+   (model "PQQ10W-Q24-S3-S.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

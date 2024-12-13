@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "T55D107M025C0060"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-04-10-08:12:10)
+    (mountForm default
+        (footprintRef "CAPPM7343X310N")
+        (spec "System")
+    )
+)

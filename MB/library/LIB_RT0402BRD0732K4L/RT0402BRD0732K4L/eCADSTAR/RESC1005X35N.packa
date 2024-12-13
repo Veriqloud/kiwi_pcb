@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "RT0402BRD0732K4L"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-07-07-05:30:43)
+    (mountForm default
+        (footprintRef "RESC1005X35N")
+        (spec "System")
+    )
+)

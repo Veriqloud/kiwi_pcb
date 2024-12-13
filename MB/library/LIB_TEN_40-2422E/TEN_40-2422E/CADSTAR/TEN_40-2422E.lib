@@ -1,0 +1,16 @@
+.TEN_40-2422E :1 ;40 Watt DC/DC converter, industrial, 2:1 input, cost/quality efficient, 2"x1"
+TEN401225E
+*STM PS
+*NGS
+*PLB 1="+VIN (VCC)" 2="-VIN (GND)" 3="REMOTE ON/OFF" 4="+VOUT" 5="COMMON" 6="-VOUT"
+*MXP 6
+*DFN TEN_40-2422E
+~!Mouser Part Number (495-TEN40-2422E)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TRACO-Power/TEN-40-2422E?qs=BJlw7L4Cy78Qb%2FaYE2djtQ%3D%3D)
+~!Manufacturer_Name (Traco Power)
+~!Manufacturer_Part_Number (TEN 40-2422E)
+~!Link Datasheet (https://tracopower.com/ten40e-datasheet/)
+~!Height (10.7mm)
+~!3D_Model (TEN_40-2422E)
+TEN_40-2422E
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

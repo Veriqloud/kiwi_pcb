@@ -1,0 +1,16 @@
+.LMR50410XFDBVR :1 ;Simple Switcher 4-V To 36-V, 1-A Buck Converter In SOT-23-6 Package
+SOT95P280X145-6N
+*STM IC
+*NGS
+*PLB 1="CB" 2="GND" 3="FB" 4="EN" 5="VIN" 6="SW"
+*MXP 6
+*DFN LMR50410XFDBVR
+~!Mouser Part Number (595-LMR50410XFDBVR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMR50410XFDBVR?qs=81r%252BiQLm7BS8rTEbBMRIqw%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (LMR50410XFDBVR)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/lmr50410.pdf?ts=1614072497398&ref_url=https%253A%252F%252Fwww.mouser.de%252F)
+~!Height (1.45mm)
+~!3D_Model (LMR50410XFDBVR)
+LMR50410XFDBVR
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

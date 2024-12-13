@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'T55D107M025C0060'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "T55D107M025C0060" (!) = "", "CAPPM7343X310N", "Capacitor Moulded Polarised", "74-T55D107M025C0060", "https://www.mouser.co.uk/ProductDetail/Vishay-Sprague/T55D107M025C0060?qs=iR2ablhfrmEk%252B%2Fi%2Ffn01KQ%3D%3D", "", "", "Tantalum Capacitors - Polymer 100uF 25volts 20% D Case 60 Max.ESR", "https://www.mouser.in/datasheet/2/427/VISH_S_A0011791766_1-2571805.pdf", "3.1 mm"
+END_PART
+
+END.

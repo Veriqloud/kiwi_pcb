@@ -1,0 +1,16 @@
+.GRM21BR61E106KA73K :1 ;Capacitor GRM21_0.15 L=2.0mm W=1.25mm T=1.25mm
+CAPC2012X145N
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN GRM21BR61E106KA73K
+~!Mouser Part Number (81-GRM21BR61E106KA3K)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM21BR61E106KA73K?qs=hNud%2FORuBR1gmy53p902Zw%3D%3D)
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (GRM21BR61E106KA73K)
+~!Link Datasheet (http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf)
+~!Height (1.45mm)
+~!3D_Model (GRM21BR61E106KA73K)
+GRM21BR61E106KA73K
+1.1!U 2.1!U 

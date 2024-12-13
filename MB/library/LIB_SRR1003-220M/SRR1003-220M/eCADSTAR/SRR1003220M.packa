@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SRR1003-220M"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-01-05-04:55:19)
+    (mountForm default
+        (footprintRef "SRR1003220M")
+        (spec "System")
+    )
+)

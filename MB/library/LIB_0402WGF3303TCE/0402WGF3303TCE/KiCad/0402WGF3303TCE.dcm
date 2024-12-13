@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0402WGF3303TCE
+D Resistor: thick film; SMD; 0402; 330k; 62.5mW; +/-1%; -55155C
+K
+F https://www.tme.eu/Document/4f50d320a6ddacb273098f84373b6259/rezystor-smd.pdf
+$ENDCMP
+#
+#End Doc Library

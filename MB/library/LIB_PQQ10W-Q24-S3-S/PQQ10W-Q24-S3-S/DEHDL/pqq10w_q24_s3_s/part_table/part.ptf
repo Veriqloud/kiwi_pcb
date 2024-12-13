@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PQQ10W_Q24_S3_S'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "CUI Inc.", "PQQ10W-Q24-S3-S" (!) = "", "PQQ10WQ24S3S", "Other", "", "", "", "", "Isolated DC/DC Converters dc-dc isolated, 10 W, 9 36 Vdc input, 3.3 Vdc, 2.4 A, single regulated output, SIP", "https://www.mouser.jp/datasheet/2/670/pqq10w_s-1915167.pdf", "12.5 mm"
+END_PART
+
+END.

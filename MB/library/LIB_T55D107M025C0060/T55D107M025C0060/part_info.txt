@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=T55D107M025C0060
+PartCategory=Capacitor Polarised
+PackageCategory=Capacitor Moulded Polarised
+PinCount=2
+Version=1.1
+Released=2022-04-07 04:30:01
+Downloaded=2023-11-09 10:53:31
+3D=Y

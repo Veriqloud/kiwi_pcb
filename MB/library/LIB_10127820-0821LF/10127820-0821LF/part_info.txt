@@ -1,0 +1,9 @@
+Manufacturer=Amphenol Communications Solutions
+PartNumber=10127820-0821LF
+PartCategory=Connector
+PackageCategory=Other
+PinCount=8
+Version=2.4
+Released=2024-02-14 04:22:03
+Downloaded=2024-03-18 13:24:41
+3D=Y

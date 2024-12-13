@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_14922163"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-04-07-04:30:01)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "T55D107M025C0060")
+)
+
+
+(pinAssign "ECS_14922163"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-04-07-04:30:01)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_14922163")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "T55D107M025C0060")
+)
+
+
+(part "T55D107M025C0060"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-04-07-04:30:01)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "T55D107M025C0060")
+    (pinAssignRef "ECS_14922163")
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "Tantalum Capacitors - Polymer 100uF 25volts 20% D Case 60 Max.ESR")
+    (property "Manufacturer_Name" "Vishay")
+    (property "Manufacturer_Part_Number" "T55D107M025C0060")
+    (property "Mouser_Part_Number" "74-T55D107M025C0060")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Sprague/T55D107M025C0060?qs=iR2ablhfrmEk%252B%2Fi%2Ffn01KQ%3D%3D")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://www.mouser.in/datasheet/2/427/VISH_S_A0011791766_1-2571805.pdf")
+    (property "compAreaTopHeight" 3.1)
+)
+
+

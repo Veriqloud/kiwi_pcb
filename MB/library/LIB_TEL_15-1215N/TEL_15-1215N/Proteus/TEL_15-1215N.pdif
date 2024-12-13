@@ -1,0 +1,132 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "TEL_15-1215N"
+   (description "15 Watt DC/DC converter, industrial, 2:1 input, ultra compact design, encapsulated, DIP-16 metal package")
+   (family "ANA")
+   (package "TEL151215N")
+   (attribute "Datasheet Link" "https://tracopower.com/tel15n-datasheet/")
+   (attribute "Geometry.Height" "10.7mm")
+   (attribute "Mouser Part Number" "495-TEL15-1215N")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TRACO-Power/TEL-15-1215N?qs=T%252BzbugeAwjjLZBJJlIkfGQ%3D%3D")
+   (attribute "Manufacturer_Name" "Traco Power")
+   (attribute "Manufacturer_Part_Number" "TEL 15-1215N")
+   (gate
+    (symbol "TEL_15-1215N")
+    (pin "-VIN" 1 PS)
+    (pin "NC" 8 NC)
+    (pin "+VOUT" 9 PS)
+    (pin "-VOUT" 10 PS)
+    (pin "+VIN" 16 PS)
+   )
+  )
+  (symbol "TEL_15-1215N"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "TEL151215N"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -11.96 -3)
+      (pt 1.74 -3)
+      (pt 1.74 20.8)
+      (pt -11.96 20.8)
+      (pt -11.96 -3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -11.96 -3)
+      (pt 1.74 -3)
+      (pt 1.74 20.8)
+      (pt -11.96 20.8)
+      (pt -11.96 -3))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 2.74 21.8)
+      (pt -12.96 21.8)
+      (pt -12.96 -4)
+      (pt 2.74 -4)
+      (pt 2.74 21.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0 -3.6)
+      (arc (pt 0.000 -3.600) (pt 0.050 -3.600) (pt -0.050 -3.500) (start 180.0) (sweep -90.0))
+      (pt 0 -3.5)
+      (arc (pt 0.000 -3.500) (pt 0.050 -3.600) (pt -0.050 -3.500) (start 180.0) (sweep 90.0))
+      (pt 0 -3.6))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 8 (pt 0.000 17.780) (padstack 0))
+   (leg 9 (pt -10.160 17.780) (padstack 0))
+   (leg 10 (pt -10.160 15.240) (padstack 0))
+   (leg 16 (pt -10.160 0.000) (padstack 0))
+   (padstack 0
+    (hole 0.7)
+    (plated true)
+    (pad (layer TCOP) (round 1.200))
+    (pad (layer INNER) (round 1.200))
+    (pad (layer BCOP) (round 1.200))
+   )
+   (padstack 1
+    (hole 0.7)
+    (plated true)
+    (pad (layer TCOP) (square 1.200))
+    (pad (layer INNER) (round 1.200))
+    (pad (layer BCOP) (square 1.200))
+   )
+   (model "TEL_15-1215N.stp"
+    (euler -90 0 90)
+    (offset -5.110000133514404 8.899999618530273 0.05000000074505806)
+   )
+  )
+ )
+)

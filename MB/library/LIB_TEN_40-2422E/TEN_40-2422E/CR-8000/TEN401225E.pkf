@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "TEN401225E"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "TEN401225E")
+        (spec "default")
+    )
+)

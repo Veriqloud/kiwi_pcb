@@ -1,0 +1,166 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "PJ-082BH"
+   (description "DC Power Connectors 2.5mm x 5.5mm horz")
+   (family "CON")
+   (package "PJ082BH")
+   (attribute "Datasheet Link" "https://www.mouser.co.uk/datasheet/2/670/pj_082bh-1779031.pdf")
+   (attribute "Geometry.Height" "10.2mm")
+   (attribute "Mouser Part Number" "490-PJ-082BH")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CUI-Devices/PJ-082BH?qs=WyjlAZoYn52P2Lo8hPB1tg%3D%3D")
+   (attribute "Manufacturer_Name" "CUI Devices")
+   (attribute "Manufacturer_Part_Number" "PJ-082BH")
+   (gate
+    (symbol "PJ-082BH")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "MH1" MH1 PS)
+    (pin "MH2" MH2 PS)
+    (pin "MH3" MH3 PS)
+    (pin "MH4" MH4 PS)
+   )
+  )
+  (symbol "PJ-082BH"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 800 100) (pt 800 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "PJ082BH"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -12 5)
+      (pt 1 5)
+      (pt 1 -5)
+      (pt -12 -5)
+      (pt -12 5))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -13 7.76)
+      (pt 2.85 7.76)
+      (pt 2.85 -7.76)
+      (pt -13 -7.76)
+      (pt -13 7.76))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 1.75 0)
+      (arc (pt 1.750 0.000) (pt 1.750 -0.050) (pt 1.850 0.050) (start 180.0) (sweep -180.0))
+      (pt 1.85 0)
+      (arc (pt 1.850 0.000) (pt 1.750 -0.050) (pt 1.850 0.050) (start 180.0) (sweep .0))
+      (pt 1.75 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 1 -5)
+      (pt 1 -1.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 1 5)
+      (pt 1 1.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -8.75 -5)
+      (pt -12 -5)
+      (pt -12 5)
+      (pt -8.75 5))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt -6.000 0.000) (padstack 2))
+   (leg MH1 (pt -1.800 4.750) (padstack 0))
+   (leg MH2 (pt -6.500 4.750) (padstack 0))
+   (leg MH3 (pt -1.800 -4.750) (padstack 0))
+   (leg MH4 (pt -6.500 -4.750) (padstack 0))
+   (leg MH5 (pt -9.250 0.000) (padstack 7))
+   (padstack 0
+    (hole 2.24)
+    (plated true)
+    (pad (layer TCOP) (round 3.360))
+    (pad (layer INNER) (round 3.360))
+    (pad (layer BCOP) (round 3.360))
+   )
+   (padstack 1
+    (hole 1.7)
+    (plated true)
+    (pad (layer TCOP) (round 2.550))
+    (pad (layer INNER) (round 2.550))
+    (pad (layer BCOP) (round 2.550))
+   )
+   (padstack 2
+    (hole 2.193)
+    (plated true)
+    (pad (layer TCOP) (round 3.420))
+    (pad (layer INNER) (round 3.420))
+    (pad (layer BCOP) (round 3.420))
+   )
+   (padstack 7
+    (hole 1.6)
+    (plated false)
+    (pad (layer TCOP) (round 0.800))
+    (pad (layer INNER) (round 0.800))
+    (pad (layer BCOP) (round 0.800))
+   )
+   (model "PJ-082BH.stp"
+    (euler 90 0 90)
+    (offset -11 0 5.289999961853027)
+   )
+  )
+ )
+)

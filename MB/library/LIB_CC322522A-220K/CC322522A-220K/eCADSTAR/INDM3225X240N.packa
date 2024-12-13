@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CC322522A-220K"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-01-08-11:42:31)
+    (mountForm default
+        (footprintRef "INDM3225X240N")
+        (spec "System")
+    )
+)

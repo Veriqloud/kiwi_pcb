@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CCG30-24-12D
+D DC-DC Converters, On-board type, Dual Output, Output: 30W, ?12V, Isolated type
+K
+F https://product.tdk.com/system/files/dam/doc/product/power/switching-power/dc-dc-converter/catalog/ccg_e.pdf
+$ENDCMP
+#
+#End Doc Library

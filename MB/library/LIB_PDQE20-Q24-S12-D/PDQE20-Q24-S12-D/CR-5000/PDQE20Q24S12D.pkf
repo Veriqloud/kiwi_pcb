@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "PDQE20Q24S12D"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "PDQE20Q24S12D")
+        (spec "default")
+    )
+)

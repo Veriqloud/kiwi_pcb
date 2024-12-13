@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SDR0604-220YL
+D SDR0604 SMD Power Inductors 22uH 15% Bourns SDR0604 Series Wire-wound SMD Inductor with a Ferrite Core, 22 uH +/-15% Wire-Wound 1.1A Idc Q:30
+K
+F https://componentsearchengine.com/Datasheets/2/SDR0604-220YL.pdf
+$ENDCMP
+#
+#End Doc Library

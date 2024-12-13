@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PJ_082BH'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "CUI Devices", "PJ-082BH" (!) = "", "PJ082BH", "Other", "490-PJ-082BH", "https://www.mouser.co.uk/ProductDetail/CUI-Devices/PJ-082BH?qs=WyjlAZoYn52P2Lo8hPB1tg%3D%3D", "DC Power Connectors 2.5mm x 5.5mm horz", "https://www.mouser.co.uk/datasheet/2/670/pj_082bh-1779031.pdf", "10.2 mm"
+END_PART
+
+END.

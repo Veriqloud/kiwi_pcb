@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TEN_40-2422E"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-07-21-10:50:46)
+    (mountForm default
+        (footprintRef "TEN401225E")
+        (spec "System")
+    )
+)

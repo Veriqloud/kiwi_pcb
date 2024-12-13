@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_11774351"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-01-08-11:42:31)
+    (utime 2024-01-08-11:42:31)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "CC322522A-220K")
+)
+
+
+(pinAssign "ECS_11774351"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-01-08-11:42:31)
+    (utime 2024-01-08-11:42:31)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_11774351")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "CC322522A-220K")
+)
+
+
+(part "CC322522A-220K"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-01-08-11:42:31)
+    (utime 2024-01-08-11:42:31)
+    (packageRef "CC322522A-220K")
+    (pinAssignRef "ECS_11774351")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "22 H Unshielded Inductor 370 mA 2Ohm Max 1210 (3225 Metric)")
+    (property "Manufacturer_Name" "Bourns")
+    (property "Manufacturer_Part_Number" "CC322522A-220K")
+    (property "Mouser_Part_Number" "652-CC322522A-220K")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/CC322522A-220K?qs=BJlw7L4Cy79%252BfkwUStgyAQ%3D%3D")
+    (property "Arrow_Part_Number" "CC322522A-220K")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/cc322522a-220k/bourns?region=nac")
+    (property "Datasheet_Link" "https://www.bourns.com/docs/product-datasheets/cc322522a.pdf")
+    (property "compAreaTopHeight" 2.4)
+)
+
+

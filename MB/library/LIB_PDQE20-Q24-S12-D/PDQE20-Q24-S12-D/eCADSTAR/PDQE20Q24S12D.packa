@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PDQE20-Q24-S12-D"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-04-11-08:56:58)
+    (mountForm default
+        (footprintRef "PDQE20Q24S12D")
+        (spec "System")
+    )
+)

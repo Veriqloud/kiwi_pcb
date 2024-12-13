@@ -1,0 +1,16 @@
+.SDR0604-220YL :1 ;SDR0604 SMD Power Inductors 22uH 15% Bourns SDR0604 Series Wire-wound SMD Inductor with a Ferrite Core, 22 uH +/-15% Wire-Wound 1.1A Idc Q:30
+SDR0604
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN SDR0604-220YL
+~!Mouser Part Number (652-SDR0604-220YL)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/SDR0604-220YL?qs=poxSNw7ZBQKY%2FvYQtEz2cg%3D%3D)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (SDR0604-220YL)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/SDR0604-220YL.pdf)
+~!Height (-)
+~!3D_Model (SDR0604-220YL)
+SDR0604-220YL
+1.1!U 2.1!U 

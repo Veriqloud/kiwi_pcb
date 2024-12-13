@@ -1,0 +1,9 @@
+Manufacturer=SAMSUNG
+PartNumber=CL21A226MAYNNNE
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=2.1
+Released=2022-01-11 10:35:42
+Downloaded=2024-03-19 13:58:10
+3D=Y

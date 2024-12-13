@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "RP73PF1E34KBTD"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-02-01-15:31:16)
+    (mountForm default
+        (footprintRef "RESC1005X35N")
+        (spec "System")
+    )
+)

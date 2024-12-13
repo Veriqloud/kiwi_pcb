@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TEN_40-2422E
+D 40 Watt DC/DC converter, industrial, 2:1 input, cost/quality efficient, 2"x1"
+K
+F https://tracopower.com/ten40e-datasheet/
+$ENDCMP
+#
+#End Doc Library

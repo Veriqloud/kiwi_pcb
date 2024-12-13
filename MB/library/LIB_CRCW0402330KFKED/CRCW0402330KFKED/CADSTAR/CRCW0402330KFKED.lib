@@ -1,0 +1,16 @@
+.CRCW0402330KFKED :1 ;Vishay CRCW Series Thick Film Surface Mount Resistor 402 Case 330k +/-1% 0.063W +/-100ppm/C
+RESC1005X40N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CRCW0402330KFKED
+~!Mouser Part Number (71-CRCW0402-330K-E3)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW0402330KFKED?qs=M5h4kKQH9pJYkM2oWvTUGg%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (CRCW0402330KFKED)
+~!Link Datasheet (http://www.vishay.com/docs/20035/dcrcwe3.pdf)
+~!Height (0.4mm)
+~!3D_Model (CRCW0402330KFKED)
+CRCW0402330KFKED
+1.1!U 2.1!U 

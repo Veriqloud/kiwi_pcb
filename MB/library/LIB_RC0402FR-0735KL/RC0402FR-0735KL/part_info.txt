@@ -1,0 +1,9 @@
+Manufacturer=YAGEO
+PartNumber=RC0402FR-0735KL
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2024-01-03 11:15:52
+Downloaded=2024-01-03 12:19:41
+3D=Y

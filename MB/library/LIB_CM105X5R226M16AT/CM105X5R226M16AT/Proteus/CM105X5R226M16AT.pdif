@@ -1,0 +1,96 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "CM105X5R226M16AT"
+   (description "Multilayer Ceramic Capacitors MLCC - SMD/SMT 16V 22uF X5R 0603 4mm Pitch 20%")
+   (family "CAP")
+   (package "CAPC1608X100N")
+   (attribute "Datasheet Link" "https://www.mouser.de/datasheet/2/40/Kyocera_AVX_Components_CT_Series_e-2933596.pdf")
+   (attribute "Geometry.Height" "1mm")
+   (attribute "Mouser Part Number" "581-CM105X5R226M16AT")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/CM105X5R226M16AT?qs=MyNHzdoqoQKX6cMyStcF%2FA%3D%3D")
+   (attribute "Manufacturer_Name" "KYOCERA")
+   (attribute "Manufacturer_Part_Number" "CM105X5R226M16AT")
+   (gate
+    (symbol "CM105X5R226M16AT")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "CM105X5R226M16AT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 220 100) (pt 220 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 100) (pt 280 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 0) (pt 220 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 0) (pt 300 0))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "CAPC1608X100N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -1.265 0.66)
+      (pt 1.265 0.66)
+      (pt 1.265 -0.66)
+      (pt -1.265 -0.66)
+      (pt -1.265 0.66))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.8 0.4)
+      (pt 0.8 0.4)
+      (pt 0.8 -0.4)
+      (pt -0.8 -0.4)
+      (pt -0.8 0.4))))
+   (leg 1 (pt -0.67 0) (padstack 0))
+   (leg 2 (pt 0.67 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.89 1.02 0 0 90))
+   )
+   (model "CM105X5R226M16AT.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

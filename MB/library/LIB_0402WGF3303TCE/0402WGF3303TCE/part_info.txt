@@ -1,0 +1,9 @@
+Manufacturer=ROYALOHM
+PartNumber=0402WGF3303TCE
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2024-01-03 12:17:31
+Downloaded=2024-01-03 12:20:07
+3D=Y

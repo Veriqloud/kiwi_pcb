@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CCG30_24_12D'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TDK", "CCG30-24-12D" (!) = "", "CCG304815S", "Other", "N/A", "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA", "DC-DC Converters, On-board type, Dual Output, Output: 30W, ?12V, Isolated type", "https://product.tdk.com/system/files/dam/doc/product/power/switching-power/dc-dc-converter/catalog/ccg_e.pdf", "9.9 mm"
+END_PART
+
+END.

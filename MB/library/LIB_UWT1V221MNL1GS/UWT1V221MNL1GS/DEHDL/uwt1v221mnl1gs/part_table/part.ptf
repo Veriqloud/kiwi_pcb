@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'UWT1V221MNL1GS'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nichicon", "UWT1V221MNL1GS" (!) = "", "CAPAE830X1080N", "Capacitor Al Electrolytic", "647-UWT1V221MNL1S", "https://www.mouser.co.uk/ProductDetail/Nichicon/UWT1V221MNL1GS?qs=nG%2Fv56AVa5tGx14QDCPlyg%3D%3D", "ALUMINUM ELECTROLYTIC CAPACITORS", "https://products.nichicon.co.jp/en/pdf/XJA043/e-uwt.pdf", "10.8 mm"
+END_PART
+
+END.

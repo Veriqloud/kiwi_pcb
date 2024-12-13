@@ -1,0 +1,18 @@
+.GRM31CR61E476ME44K :1 ;Multilayer Ceramic Capacitors MLCC - SMD/SMT
+CAPC3216X180N
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN GRM31CR61E476ME44K
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (GRM31CR61E476ME44K)
+~!Mouser Part Number (81-GRM31CR61E476ME4K)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM31CR61E476ME44K?qs=qkDYIeTQ%252BEkBdMQRO7O96A%3D%3D)
+~!Arrow Part Number (GRM31CR61E476ME44K)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/grm31cr61e476me44k/murata-manufacturing)
+~!Link Datasheet (http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf)
+~!Height (1.8mm)
+~!3D_Model (GRM31CR61E476ME44K)
+GRM31CR61E476ME44K
+1.1!U 2.1!U 

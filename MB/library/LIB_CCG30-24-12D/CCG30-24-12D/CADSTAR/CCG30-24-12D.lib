@@ -1,0 +1,16 @@
+.CCG30-24-12D :1 ;DC-DC Converters, On-board type, Dual Output, Output: 30W, ?12V, Isolated type
+CCG304815S
+*STM PS
+*NGS
+*PLB 1="RC" 2="-VIN" 3="+VIN" 4="+VOUT" 5="COM" 6="-VOUT"
+*MXP 6
+*DFN CCG30-24-12D
+~!Mouser Part Number (N/A)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA)
+~!Manufacturer_Name (TDK)
+~!Manufacturer_Part_Number (CCG30-24-12D)
+~!Link Datasheet (https://product.tdk.com/system/files/dam/doc/product/power/switching-power/dc-dc-converter/catalog/ccg_e.pdf)
+~!Height (9.9mm)
+~!3D_Model (CCG30-24-12D)
+CCG30-24-12D
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

@@ -1,0 +1,18 @@
+.RP73PF1E34KBTD :1 ;34 kOhms +/-0.1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Thin Film
+RESC1005X35N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN RP73PF1E34KBTD
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (RP73PF1E34KBTD)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2176307%7FA%7Fpdf%7FEnglish%7FENG_CD_2176307_A.pdf%7F4-2176307-3)
+~!Height (0.35mm)
+~!3D_Model (RP73PF1E34KBTD)
+RP73PF1E34KBTD
+1.1!U 2.1!U 

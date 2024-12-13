@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LMR50410XFDBVR
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=1.1
+Released=2021-02-23 13:32:30
+Downloaded=2024-01-03 10:37:40
+3D=Y

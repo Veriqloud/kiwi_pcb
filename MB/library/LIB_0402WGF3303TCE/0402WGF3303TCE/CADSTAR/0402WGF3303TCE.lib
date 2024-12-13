@@ -1,0 +1,18 @@
+.0402WGF3303TCE :1 ;Resistor: thick film; SMD; 0402; 330k; 62.5mW; +/-1%; -55155C
+RESC1005X40N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 0402WGF3303TCE
+~!Manufacturer_Name (ROYALOHM)
+~!Manufacturer_Part_Number (0402WGF3303TCE)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.tme.eu/Document/4f50d320a6ddacb273098f84373b6259/rezystor-smd.pdf)
+~!Height (0.4mm)
+~!3D_Model (0402WGF3303TCE)
+"0402WGF3303TCE"
+1.1!U 2.1!U 

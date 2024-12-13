@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TEL_15-1215N"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-11-23-04:22:48)
+    (mountForm default
+        (footprintRef "TEL151215N")
+        (spec "System")
+    )
+)

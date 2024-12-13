@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SDR0604_220YL'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Bourns", "SDR0604-220YL" (!) = "", "SDR0604", "Other", "652-SDR0604-220YL", "https://www.mouser.co.uk/ProductDetail/Bourns/SDR0604-220YL?qs=poxSNw7ZBQKY%2FvYQtEz2cg%3D%3D", "SDR0604 SMD Power Inductors 22uH 15% Bourns SDR0604 Series Wire-wound SMD Inductor with a Ferrite Core, 22 uH +/-15% Wire-Wound 1.1A Idc Q:30", "https://componentsearchengine.com/Datasheets/2/SDR0604-220YL.pdf"
+END_PART
+
+END.

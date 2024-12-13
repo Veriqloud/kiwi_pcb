@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PDQE15_Q24_S5_D'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "CUI Inc.", "PDQE15-Q24-S5-D" (!) = "", "PDQE15Q24S5D", "Other", "490-PDQE15-Q24-S5-D", "https://www.mouser.co.uk/ProductDetail/CUI-Inc/PDQE15-Q24-S5-D?qs=T3oQrply3y8yHnuOOP2Yow%3D%3D", "PDQE15-Q24-S5-D", "https://www.arrow.com/en/products/pdqe15-q24-s5-d/cui-inc?region=nac", "Isolated DC/DC Converters isolated, 15 W, 9 36 Vdc input, 5 Vdc, 3 A, single regulated output, DIP", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/ceff7f1d3fd8bffed708cbd63eb61e9c.pdf", "12.2 mm"
+END_PART
+
+END.

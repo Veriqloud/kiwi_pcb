@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_18971346"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-01-03-11:15:52)
+    (utime 2024-01-03-11:15:52)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "RC0402FR-0735KL")
+)
+
+
+(pinAssign "ECS_18971346"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-01-03-11:15:52)
+    (utime 2024-01-03-11:15:52)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_18971346")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "RC0402FR-0735KL")
+)
+
+
+(part "RC0402FR-0735KL"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-01-03-11:15:52)
+    (utime 2024-01-03-11:15:52)
+    (packageRef "RC0402FR-0735KL")
+    (pinAssignRef "ECS_18971346")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "R")
+    (property "description" "GENERAL PURPOSE CHIP RESISTORS RC_L series +/-0.1%, +/-0.5%, +/-1%, +/-5% Sizes 0075/0100/0201/0402/0603/0805/ 1206/1210/1218/2010/2512 RoHS compliant & Halogen free")
+    (property "Manufacturer_Name" "YAGEO")
+    (property "Manufacturer_Part_Number" "RC0402FR-0735KL")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://www.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_9-1314892.pdf")
+    (property "compAreaTopHeight" 0.4)
+)
+
+

@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=CR0402-FX-2943GLF
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2023-03-07 09:30:01
+Downloaded=2024-01-03 10:18:46
+3D=Y

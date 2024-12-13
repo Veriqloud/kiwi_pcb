@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LMR50410XFDBVR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "LMR50410XFDBVR" (!) = "", "SOT95P280X145-6N", "SOT23 (6-Pin)", "595-LMR50410XFDBVR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMR50410XFDBVR?qs=81r%252BiQLm7BS8rTEbBMRIqw%3D%3D", "Simple Switcher 4-V To 36-V, 1-A Buck Converter In SOT-23-6 Package", "https://www.ti.com/lit/ds/symlink/lmr50410.pdf?ts=1614072497398&ref_url=https%253A%252F%252Fwww.mouser.de%252F", "1.45 mm"
+END_PART
+
+END.
