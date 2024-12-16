@@ -1,9 +1,0 @@
-Manufacturer=YAGEO
-PartNumber=RT0402BRD0732K4L
-PartCategory=Resistor
-PackageCategory=Resistor Chip
-PinCount=2
-Version=1.1
-Released=2023-07-17 08:15:31
-Downloaded=2024-01-03 10:17:46
-3D=Y

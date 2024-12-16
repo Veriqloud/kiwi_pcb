@@ -1,9 +1,0 @@
-Manufacturer=TE Connectivity
-PartNumber=RP73PF1E34KBTD
-PartCategory=Resistor
-PackageCategory=Resistor Chip
-PinCount=2
-Version=1.1
-Released=2024-02-01 15:31:16
-Downloaded=2024-02-02 10:18:24
-3D=Y

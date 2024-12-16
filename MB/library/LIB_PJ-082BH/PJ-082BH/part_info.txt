@@ -1,9 +1,0 @@
-Manufacturer=CUI Devices
-PartNumber=PJ-082BH
-PartCategory=Connector
-PackageCategory=Other
-PinCount=6
-Version=1.4
-Released=2020-09-13 14:41:30
-Downloaded=2024-03-18 13:45:50
-3D=Y

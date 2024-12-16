@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP CM105X5R226M16AT
-D Multilayer Ceramic Capacitors MLCC - SMD/SMT 16V 22uF X5R 0603 4mm Pitch 20%
-K
-F https://www.mouser.de/datasheet/2/40/Kyocera_AVX_Components_CT_Series_e-2933596.pdf
-$ENDCMP
-#
-#End Doc Library

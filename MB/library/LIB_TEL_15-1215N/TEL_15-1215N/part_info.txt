@@ -1,9 +1,0 @@
-Manufacturer=Traco Power
-PartNumber=TEL 15-1215N
-PartCategory=Power Supply
-PackageCategory=Other
-PinCount=5
-Version=6.2
-Released=2022-11-23 04:22:48
-Downloaded=2024-03-18 14:25:41
-3D=Y

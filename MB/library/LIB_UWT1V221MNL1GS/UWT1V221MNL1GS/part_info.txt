@@ -1,9 +1,0 @@
-Manufacturer=Nichicon
-PartNumber=UWT1V221MNL1GS
-PartCategory=Capacitor Polarised
-PackageCategory=Capacitor Al Electrolytic
-PinCount=2
-Version=1.1
-Released=2020-10-19 10:25:39
-Downloaded=2023-11-22 12:46:42
-3D=Y

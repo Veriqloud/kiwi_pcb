@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP LMR50410XFDBVR
-D Simple Switcher 4-V To 36-V, 1-A Buck Converter In SOT-23-6 Package
-K
-F https://www.ti.com/lit/ds/symlink/lmr50410.pdf?ts=1614072497398&ref_url=https%253A%252F%252Fwww.mouser.de%252F
-$ENDCMP
-#
-#End Doc Library

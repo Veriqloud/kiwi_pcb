@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP TEL_15-1215N
-D 15 Watt DC/DC converter, industrial, 2:1 input, ultra compact design, encapsulated, DIP-16 metal package
-K
-F https://tracopower.com/tel15n-datasheet/
-$ENDCMP
-#
-#End Doc Library

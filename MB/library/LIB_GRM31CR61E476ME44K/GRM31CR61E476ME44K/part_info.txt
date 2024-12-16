@@ -1,9 +1,0 @@
-Manufacturer=Murata Electronics
-PartNumber=GRM31CR61E476ME44K
-PartCategory=Capacitor
-PackageCategory=Capacitor Chip Non-polarised
-PinCount=2
-Version=1.1
-Released=2023-03-07 08:59:13
-Downloaded=2023-11-09 10:59:19
-3D=Y

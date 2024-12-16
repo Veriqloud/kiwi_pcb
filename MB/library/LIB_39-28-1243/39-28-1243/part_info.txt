@@ -1,9 +1,0 @@
-Manufacturer=Molex
-PartNumber=39-28-1243
-PartCategory=Connector
-PackageCategory=Other
-PinCount=24
-Version=3.1
-Released=2016-10-10 11:44:57
-Downloaded=2024-03-18 12:16:54
-3D=Y

@@ -1,9 +1,0 @@
-Manufacturer=Murata Electronics
-PartNumber=GRM155R61E225KE11J
-PartCategory=Capacitor
-PackageCategory=Capacitor Chip Non-polarised
-PinCount=2
-Version=3.1
-Released=2023-03-07 08:54:33
-Downloaded=2024-01-03 10:25:43
-3D=Y

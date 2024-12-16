@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP SRR1003-220M
-D 22 H Shielded Drum Core, Wirewound Inductor 850 mA 300mOhm Max Nonstandard
-K
-F https://www.bourns.com/pdfs/SRR1003.pdf
-$ENDCMP
-#
-#End Doc Library

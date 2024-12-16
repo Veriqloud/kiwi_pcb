@@ -1,9 +1,0 @@
-Manufacturer=Bourns
-PartNumber=SRR1003-220M
-PartCategory=Inductor
-PackageCategory=Other
-PinCount=2
-Version=1.6
-Released=2024-01-05 04:55:19
-Downloaded=2024-01-05 10:50:10
-3D=Y

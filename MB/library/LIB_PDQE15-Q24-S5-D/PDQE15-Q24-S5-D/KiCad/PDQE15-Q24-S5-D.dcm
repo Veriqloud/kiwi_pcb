@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP PDQE15-Q24-S5-D
-D Isolated DC/DC Converters isolated, 15 W, 9 36 Vdc input, 5 Vdc, 3 A, single regulated output, DIP
-K
-F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/ceff7f1d3fd8bffed708cbd63eb61e9c.pdf
-$ENDCMP
-#
-#End Doc Library

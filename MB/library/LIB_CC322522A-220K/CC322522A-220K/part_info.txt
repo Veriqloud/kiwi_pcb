@@ -1,9 +1,0 @@
-Manufacturer=Bourns
-PartNumber=CC322522A-220K
-PartCategory=Inductor
-PackageCategory=Inductor Moulded
-PinCount=2
-Version=1.1
-Released=2024-01-08 11:42:31
-Downloaded=2024-01-08 12:30:19
-3D=Y
