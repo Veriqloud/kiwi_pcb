@@ -1,0 +1,20 @@
+### Footprint positions - created on ven. 17 janv. 2025 11:03:16 ###
+### Printed by KiCad version 7.0.8-7.0.8~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val           Package                 PosX       PosY       Rot  Side
+J1        39-28-1243    39-28-1243           60.5900   -99.7100  -90.0000  top
+J2        39-28-1043    39-28-1043           60.5000   -79.3000  -90.0000  top
+J3        MBES-152      CONN_MBES-152_ALT   105.9800  -167.3100  180.0000  top
+J4        MBES-152      CONN_MBES-152_ALT    72.3300  -167.1000  180.0000  top
+J5        282837-3      2828373              78.4500   -98.1300   90.0000  top
+J6        MBES-152      CONN_MBES-152_ALT   115.3000  -125.7600  -90.0000  top
+J7        39-28-1043    39-28-1043           60.3000   -58.0000  -90.0000  top
+J8        MBES-152      CONN_MBES-152_ALT   115.1500  -102.8100  -90.0000  top
+J9        MBES-152      CONN_MBES-152_ALT    79.0000   -57.8200  -90.0000  top
+J10       MBES-152      CONN_MBES-152_ALT   100.4400  -138.8600  -90.0000  top
+J11       MBES-152      CONN_MBES-152_ALT   115.0500   -59.3600  -90.0000  top
+J12       MBES-152      CONN_MBES-152_ALT    78.1500  -117.6649  -90.0000  top
+J13       MBES-152      CONN_MBES-152_ALT   114.9500   -78.7200  -90.0000  top
+PS1       TEL_15-1215N  TEL151215N           70.9600  -145.9600  -90.0000  top
+## End

@@ -1,0 +1,10 @@
+### Footprint positions - created on ven. 17 janv. 2025 11:03:16 ###
+### Printed by KiCad version 7.0.8-7.0.8~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val              Package                PosX       PosY       Rot  Side
+C1        100_uF           CAPPM7343X310N      74.4400  -140.6100  -90.0000  bottom
+C2        100_uF           CAPPM7343X310N      92.1400  -140.6600  -90.0000  bottom
+C3        CL21A226MAYNNNE  CAPC2012X145N       78.0900  -140.3600   90.0000  bottom
+C4        CL21A226MAYNNNE  CAPC2012X145N       88.4900  -140.2100   90.0000  bottom
+## End
