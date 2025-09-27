@@ -1,2 +1,3 @@
 # kiwi_pcb
-source code for the printed circuit boards
+
+Source code for the printed circuit boards. Open with KiCad. 
