@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 0501012.WRA
+#/1275236/1260192/2.50/2/2/Fuse
+DEF 0501012.WRA F 0 30 Y Y 1 F N
+F0 "F" 550 250 50 H V L CNN
+F1 "0501012.WRA" 550 150 50 H V L CNN
+F2 "FUSC3216X98N" 550 50 50 H I L CNN
+F3 "https://cdn1-originals.webdamdb.com/12956_127233690?cache=1638229974&response-content-disposition=inline;filename=Littelfuse_Fuse_501A_Datasheet.pdf&response-content-type=application/pdf&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9jZG4xLW9yaWdpb" 550 -50 50 H I L CNN
+F4 "LITTELFUSE - 0501012.WRA - FUSE, FAST ACTING, 12A, 32VDC, 1206" 550 -150 50 H I L CNN "Description"
+F5 "0.985" 550 -250 50 H I L CNN "Height"
+F6 "576-0501012.WRA" 550 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Littelfuse/0501012WRA?qs=r5DSvlrkXmL6WmckR9m8eg%3D%3D" 550 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "LITTELFUSE" 550 -550 50 H I L CNN "Manufacturer_Name"
+F9 "0501012.WRA" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+P 2 0 1 6 200 0 500 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library

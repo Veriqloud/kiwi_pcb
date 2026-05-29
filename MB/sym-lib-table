@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "XEL6060-472MEC")(type "KiCad")(uri "${KIPRJMOD}/ExtLib/XEL6060-472MEC.kicad_sym")(options "")(descr ""))
+)

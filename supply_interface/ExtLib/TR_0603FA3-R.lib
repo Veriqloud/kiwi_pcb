@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model TR_0603FA3-R
+#/5357967/1260192/2.50/2/3/Fuse
+DEF TR_0603FA3-R F 0 30 Y Y 1 F N
+F0 "F" 550 250 50 H V L CNN
+F1 "TR_0603FA3-R" 550 150 50 H V L CNN
+F2 "FUSC1608X56N" 550 50 50 H I L CNN
+F3 "https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-0603fa-fast-acting-chip-surface-mount-fuse-data-sheet.pdf" 550 -50 50 H I L CNN
+F4 "Surface Mount Fuses 32V 3A Fast Acting" 550 -150 50 H I L CNN "Description"
+F5 "0.56" 550 -250 50 H I L CNN "Height"
+F6 "Eaton" 550 -350 50 H I L CNN "Manufacturer_Name"
+F7 "TR/0603FA3-R" 550 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "504-TR/0603FA3-R" 550 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Bussmann-Eaton/TR-0603FA3-R?qs=TSScP84zSEpMY4BEyPyxgA%3D%3D" 550 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "" 550 -750 50 H I L CNN "Arrow Part Number"
+F11 "" 550 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+P 2 0 1 6 200 0 500 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library
