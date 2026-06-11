@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/lyes/kiwi_pcb/supply_interface/supply_interface.kicad_sch</source>
-    <date>Thu 04 Jun 2026 01:17:10 PM CEST</date>
+    <date>Thu 11 Jun 2026 03:27:28 PM CEST</date>
     <tool>Eeschema 7.0.11+dfsg-1build4</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -127,27 +127,6 @@
       <property name="ki_description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 22uF+/-20% 25V X5R 2012"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>06a33f7e-2c5e-43e5-85ea-a06e089873c4</tstamps>
-    </comp>
-    <comp ref="C5">
-      <value>1744002-2</value>
-      <footprint>17440022</footprint>
-      <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&amp;DocId=Customer+Drawing%7F1744002%7FB1%7Fpdf%7FEnglish%7FENG_CD_1744002_B1.pdf%7F1744002-2</datasheet>
-      <fields>
-        <field name="Height">13.71</field>
-        <field name="Manufacturer_Name">TE Connectivity</field>
-        <field name="Manufacturer_Part_Number">1744002-2</field>
-      </fields>
-      <libsource lib="1744002-2" part="1744002-2" description="Headers &amp; Wire Housings 02P HDR FL/STR TIN"/>
-      <property name="Height" value="13.71"/>
-      <property name="Mouser Part Number" value=""/>
-      <property name="Mouser Price/Stock" value=""/>
-      <property name="Manufacturer_Name" value="TE Connectivity"/>
-      <property name="Manufacturer_Part_Number" value="1744002-2"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="supply_interface.kicad_sch"/>
-      <property name="ki_description" value="Headers &amp; Wire Housings 02P HDR FL/STR TIN"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>be7afd84-ed4d-4f6f-af5d-8aab3c6fa950</tstamps>
     </comp>
     <comp ref="C9">
       <value>1 uF</value>
@@ -1259,6 +1238,29 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4bb03720-6608-4ab4-9b57-b2c42dc4277d</tstamps>
     </comp>
+    <comp ref="J15">
+      <value>3-641215-2</value>
+      <footprint>SHDR2W66P0X254_1X2_508X572X813P</footprint>
+      <datasheet>http://www.te.com/usa-en/product-3-641215-2.html#guest-click</datasheet>
+      <fields>
+        <field name="Height">8.128</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">3-641215-2</field>
+        <field name="Mouser Part Number">571-3-641215-2</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/3-641215-2?qs=KRfK61YovsgAMFXR0HUBMw%3D%3D</field>
+      </fields>
+      <libsource lib="3-641215-2" part="3-641215-2" description="Body Features: Primary Product Color Natural | Configuration Features: PCB Mount Orientation Vertical | Number of Positions 2 | Number of Rows 1 | Contact Features: Contact Base Material Copper Alloy | Contact Mating Area Plating Material Thickness 29.92 MICIN | Contact Shape &amp; Form Square | PCB Contact Termination Area Plating Material Tin | PCB Contact Termination Area Plating Material Thickness 150  350 MICIN | Contact Underplating Material Thickness 50 MICIN | PCB Contact Termination Area Plating Mat"/>
+      <property name="Height" value="8.128"/>
+      <property name="Mouser Part Number" value="571-3-641215-2"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/3-641215-2?qs=KRfK61YovsgAMFXR0HUBMw%3D%3D"/>
+      <property name="Manufacturer_Name" value="TE Connectivity"/>
+      <property name="Manufacturer_Part_Number" value="3-641215-2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="supply_interface.kicad_sch"/>
+      <property name="ki_description" value="Body Features: Primary Product Color Natural | Configuration Features: PCB Mount Orientation Vertical | Number of Positions 2 | Number of Rows 1 | Contact Features: Contact Base Material Copper Alloy | Contact Mating Area Plating Material Thickness 29.92 MICIN | Contact Shape &amp; Form Square | PCB Contact Termination Area Plating Material Tin | PCB Contact Termination Area Plating Material Thickness 150  350 MICIN | Contact Underplating Material Thickness 50 MICIN | PCB Contact Termination Area Plating Mat"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8b90484-ab15-4115-a009-5a1e10f26ee4</tstamps>
+    </comp>
     <comp ref="PS1">
       <value>TEL_15-1215N</value>
       <footprint>TEL151215N</footprint>
@@ -1341,23 +1343,6 @@
         <pin num="2" name="2" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="1744002-2" part="1744002-2">
-      <description>Headers &amp; Wire Housings 02P HDR FL/STR TIN</description>
-      <docs>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&amp;DocId=Customer+Drawing%7F1744002%7FB1%7Fpdf%7FEnglish%7FENG_CD_1744002_B1.pdf%7F1744002-2</docs>
-      <fields>
-        <field name="Reference">C</field>
-        <field name="Value">1744002-2</field>
-        <field name="Footprint">17440022</field>
-        <field name="Datasheet">https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&amp;DocId=Customer+Drawing%7F1744002%7FB1%7Fpdf%7FEnglish%7FENG_CD_1744002_B1.pdf%7F1744002-2</field>
-        <field name="Height">13.71</field>
-        <field name="Manufacturer_Name">TE Connectivity</field>
-        <field name="Manufacturer_Part_Number">1744002-2</field>
-      </fields>
-      <pins>
-        <pin num="1" name="1" type="passive"/>
-        <pin num="2" name="2" type="passive"/>
-      </pins>
-    </libpart>
     <libpart lib="282837-3" part="282837-3">
       <description>Fixed Terminal Blocks 5.08MM PCB MOUNT 3P</description>
       <fields>
@@ -1375,6 +1360,25 @@
         <pin num="1" name="1" type="passive"/>
         <pin num="2" name="2" type="passive"/>
         <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="3-641215-2" part="3-641215-2">
+      <description>Body Features: Primary Product Color Natural | Configuration Features: PCB Mount Orientation Vertical | Number of Positions 2 | Number of Rows 1 | Contact Features: Contact Base Material Copper Alloy | Contact Mating Area Plating Material Thickness 29.92 MICIN | Contact Shape &amp; Form Square | PCB Contact Termination Area Plating Material Tin | PCB Contact Termination Area Plating Material Thickness 150  350 MICIN | Contact Underplating Material Thickness 50 MICIN | PCB Contact Termination Area Plating Mat</description>
+      <docs>http://www.te.com/usa-en/product-3-641215-2.html#guest-click</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">3-641215-2</field>
+        <field name="Footprint">SHDR2W66P0X254_1X2_508X572X813P</field>
+        <field name="Datasheet">http://www.te.com/usa-en/product-3-641215-2.html#guest-click</field>
+        <field name="Height">8.128</field>
+        <field name="Mouser Part Number">571-3-641215-2</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/3-641215-2?qs=KRfK61YovsgAMFXR0HUBMw%3D%3D</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">3-641215-2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="3403.0157.24" part="3403.0157.24">
@@ -1735,8 +1739,8 @@
     <library logical="0ABA-0200-TN">
       <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/0ABA-0200-TN.kicad_sym</uri>
     </library>
-    <library logical="1744002-2">
-      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/1744002-2.kicad_sym</uri>
+    <library logical="3-641215-2">
+      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/3-641215-2.kicad_sym</uri>
     </library>
     <library logical="3403.0157.24">
       <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/3403_0157_24.kicad_sym</uri>
@@ -1786,7 +1790,7 @@
       <node ref="C17" pin="1" pintype="passive"/>
       <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="F4" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="J3" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="J3" pin="2" pinfunction="2" pintype="unspecified"/>
     </net>
     <net code="4" name="/am">
       <node ref="C18" pin="2" pinfunction="2" pintype="passive"/>
@@ -1794,7 +1798,7 @@
       <node ref="C20" pin="1" pintype="passive"/>
       <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="F2" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="J9" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="J9" pin="2" pinfunction="2" pintype="unspecified"/>
     </net>
     <net code="5" name="/apd">
       <node ref="C24" pin="2" pinfunction="2" pintype="passive"/>
@@ -1802,11 +1806,11 @@
       <node ref="C26" pin="1" pintype="passive"/>
       <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="F3" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="J12" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="J12" pin="2" pinfunction="2" pintype="unspecified"/>
     </net>
     <net code="6" name="/fan">
       <node ref="F9" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="J13" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="J13" pin="2" pinfunction="2" pintype="unspecified"/>
     </net>
     <net code="7" name="/laser">
       <node ref="C12" pin="2" pinfunction="2" pintype="passive"/>
@@ -1814,7 +1818,7 @@
       <node ref="C14" pin="1" pintype="passive"/>
       <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="F6" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="J4" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="J4" pin="2" pinfunction="2" pintype="unspecified"/>
     </net>
     <net code="8" name="/pc">
       <node ref="C21" pin="2" pinfunction="2" pintype="passive"/>
@@ -1822,16 +1826,16 @@
       <node ref="C23" pin="1" pintype="passive"/>
       <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="F11" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="J11" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="J11" pin="2" pinfunction="2" pintype="unspecified"/>
     </net>
     <net code="9" name="/peltier">
       <node ref="F7" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="J6" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="J6" pin="2" pinfunction="2" pintype="unspecified"/>
     </net>
     <net code="10" name="/pm">
       <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="F1" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="J10" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="J10" pin="2" pinfunction="2" pintype="unspecified"/>
     </net>
     <net code="11" name="/pol_n">
       <node ref="F8" pin="2" pinfunction="2" pintype="passive"/>
@@ -1847,13 +1851,13 @@
       <node ref="C9" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="F10" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="J8" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="J8" pin="2" pinfunction="2" pintype="unspecified"/>
     </net>
     <net code="14" name="0 V">
       <node ref="C2" pin="2" pintype="passive"/>
       <node ref="C4" pin="1" pintype="passive"/>
       <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="J10" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="J10" pin="1" pinfunction="1" pintype="unspecified"/>
       <node ref="PS1" pin="10" pinfunction="-VOUT" pintype="passive"/>
     </net>
     <net code="15" name="3.3V">
@@ -1915,7 +1919,6 @@
       <node ref="C25" pin="1" pintype="passive"/>
       <node ref="C26" pin="2" pintype="passive"/>
       <node ref="C3" pin="1" pintype="passive"/>
-      <node ref="C5" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="C9" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
@@ -1931,23 +1934,25 @@
       <node ref="J1" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="J1" pin="5" pinfunction="5" pintype="passive"/>
       <node ref="J1" pin="7" pinfunction="7" pintype="passive"/>
-      <node ref="J11" pin="2" pinfunction="2" pintype="unspecified"/>
-      <node ref="J12" pin="2" pinfunction="2" pintype="unspecified"/>
-      <node ref="J13" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="J11" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="J12" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="J13" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="J15" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="J2" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="J2" pin="4" pinfunction="4" pintype="passive"/>
-      <node ref="J4" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="J3" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="J4" pin="1" pinfunction="1" pintype="unspecified"/>
       <node ref="J5" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="J6" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="J6" pin="1" pinfunction="1" pintype="unspecified"/>
       <node ref="J7" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="J7" pin="4" pinfunction="4" pintype="passive"/>
-      <node ref="J8" pin="2" pinfunction="2" pintype="unspecified"/>
-      <node ref="J9" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="J8" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="J9" pin="1" pinfunction="1" pintype="unspecified"/>
       <node ref="PS1" pin="1" pinfunction="-VIN" pintype="passive"/>
     </net>
-    <net code="20" name="Net-(C5-Pad1)">
-      <node ref="C5" pin="1" pinfunction="1" pintype="passive"/>
+    <net code="20" name="Net-(J1-Pad16)">
       <node ref="J1" pin="16" pinfunction="16" pintype="passive"/>
+      <node ref="J15" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="21" name="unconnected-(J1-Pad8)">
       <node ref="J1" pin="8" pinfunction="8" pintype="passive"/>
@@ -1955,10 +1960,7 @@
     <net code="22" name="unconnected-(J1-Pad9)">
       <node ref="J1" pin="9" pinfunction="9" pintype="passive"/>
     </net>
-    <net code="23" name="unconnected-(J3-Pad2)">
-      <node ref="J3" pin="2" pinfunction="2" pintype="unspecified"/>
-    </net>
-    <net code="24" name="unconnected-(PS1-NC-Pad8)">
+    <net code="23" name="unconnected-(PS1-NC-Pad8)">
       <node ref="PS1" pin="8" pinfunction="NC" pintype="no_connect"/>
     </net>
   </nets>

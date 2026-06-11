@@ -23,4 +23,8 @@
   (lib (name "ATV02W150-HF")(type "KiCad")(uri "${KIPRJMOD}/ExtLib/ATV02W150-HF.kicad_sym")(options "")(descr ""))
   (lib (name "SMF6V0TR")(type "KiCad")(uri "${KIPRJMOD}/ExtLib/SMF6V0TR.kicad_sym")(options "")(descr ""))
   (lib (name "DFLT27A-7")(type "KiCad")(uri "${KIPRJMOD}/ExtLib/DFLT27A-7.kicad_sym")(options "")(descr ""))
+  (lib (name "46999-0703")(type "KiCad")(uri "${KIPRJMOD}/ExtLib/46999-0703.kicad_sym")(options "")(descr ""))
+  (lib (name "53047-0210")(type "KiCad")(uri "${KIPRJMOD}/ExtLib/53047-0210.kicad_sym")(options "")(descr ""))
+  (lib (name "3-641215-2")(type "KiCad")(uri "${KIPRJMOD}/ExtLib/3-641215-2.kicad_sym")(options "")(descr ""))
+  (lib (name "21033111415")(type "KiCad")(uri "${KIPRJMOD}/ExtLib/21033111415.kicad_sym")(options "")(descr ""))
 )
