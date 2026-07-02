@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model IRE-24_5-Q12N-C
+#/11466871/1260192/2.50/8/3/Power Supply
+DEF IRE-24_5-Q12N-C PS 0 30 Y Y 1 F N
+F0 "PS" 1650 300 50 H V L CNN
+F1 "IRE-24_5-Q12N-C" 1650 200 50 H V L CNN
+F2 "IRE245Q12NC" 1650 100 50 H I L CNN
+F3 "https://pim.murata.com/asset/pim4/isolatedDCDCconverter/IRE-Q12_PDF_ISOLATEDDCDCCONVERTER?lastModifiedDatetime=20250707193704" 1650 0 50 H I L CNN
+F4 "Isolated Module DC DC Converter 1 Output 24V 5A 9V - 36V Input -40C ~ 115C ,120 W" 1650 -100 50 H I L CNN "Description"
+F5 "13.34" 1650 -200 50 H I L CNN "Height"
+F6 "580-IRE-24/5-Q12N-C" 1650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/IRE-24-5-Q12N-C?qs=xZ%2FP%252Ba9zWqamfBAEGEOeiQ%3D%3D" 1650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Murata Electronics" 1650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "IRE-24/5-Q12N-C" 1650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X VIN(+) 1 0 0 200 R 50 50 0 0 P
+X ON/OFF_CONTROL 2 0 -100 200 R 50 50 0 0 P
+X VIN(-) 3 0 -200 200 R 50 50 0 0 P
+X VOUT(-) 4 1800 -400 200 L 50 50 0 0 P
+X SENSE(-) 5 1800 -300 200 L 50 50 0 0 P
+X TRIM 6 1800 -200 200 L 50 50 0 0 P
+X SENSE(+) 7 1800 -100 200 L 50 50 0 0 P
+X VOUT(+) 8 1800 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1600 100 1600 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
