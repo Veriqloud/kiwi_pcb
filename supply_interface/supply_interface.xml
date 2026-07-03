@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/home/veriqloud/kiwi_pcb/supply_interface/supply_interface.kicad_sch</source>
-    <date>Fri 03 Jul 2026 07:27:22 AM CEST</date>
+    <source>/home/lyes/kiwi_pcb/supply_interface/supply_interface.kicad_sch</source>
+    <date>Fri 03 Jul 2026 09:03:51 AM CEST</date>
     <tool>Eeschema 7.0.11+dfsg-1build4</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -2012,67 +2012,67 @@
   </libparts>
   <libraries>
     <library logical="0ABA-0200-TN">
-      <uri>/home/veriqloud/kiwi_pcb/supply_interface/ExtLib/0ABA-0200-TN.kicad_sym</uri>
+      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/0ABA-0200-TN.kicad_sym</uri>
     </library>
     <library logical="3-641215-2">
-      <uri>/home/veriqloud/kiwi_pcb/supply_interface/ExtLib/3-641215-2.kicad_sym</uri>
+      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/3-641215-2.kicad_sym</uri>
     </library>
     <library logical="3403.0157.24">
-      <uri>/home/veriqloud/kiwi_pcb/supply_interface/ExtLib/3403_0157_24.kicad_sym</uri>
+      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/3403_0157_24.kicad_sym</uri>
     </library>
     <library logical="39-28-1063">
-      <uri>/home/veriqloud/kiwi_pcb/supply_interface/ExtLib/39-28-1063.kicad_sym</uri>
+      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/39-28-1063.kicad_sym</uri>
     </library>
     <library logical="39-28-1083">
-      <uri>/home/veriqloud/kiwi_pcb/supply_interface/ExtLib/39-28-1083.kicad_sym</uri>
+      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/39-28-1083.kicad_sym</uri>
     </library>
     <library logical="ATV02W150-HF">
-      <uri>/home/veriqloud/kiwi_pcb/supply_interface/ExtLib/ATV02W150-HF.kicad_sym</uri>
+      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/ATV02W150-HF.kicad_sym</uri>
     </library>
     <library logical="DFLT27A-7">
-      <uri>/home/veriqloud/kiwi_pcb/supply_interface/ExtLib/DFLT27A-7.kicad_sym</uri>
+      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/DFLT27A-7.kicad_sym</uri>
     </library>
     <library logical="GRM155R6YA105ME11J">
-      <uri>/home/veriqloud/kiwi_pcb/supply_interface/ExtLib/GRM155R6YA105ME11J.kicad_sym</uri>
+      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/GRM155R6YA105ME11J.kicad_sym</uri>
     </library>
     <library logical="IRE-24/5-Q12N-C">
-      <uri>/home/veriqloud/kiwi_pcb/supply_interface/ExtLib/IRE-24_5-Q12N-C.kicad_sym</uri>
+      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/IRE-24_5-Q12N-C.kicad_sym</uri>
     </library>
     <library logical="MAL215097001E3">
-      <uri>/home/veriqloud/kiwi_pcb/supply_interface/ExtLib/MAL215097001E3.kicad_sym</uri>
+      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/MAL215097001E3.kicad_sym</uri>
     </library>
     <library logical="Mechanical">
       <uri>/usr/share/kicad/symbols//Mechanical.kicad_sym</uri>
     </library>
     <library logical="SF-0402S400M-2">
-      <uri>/home/veriqloud/kiwi_pcb/supply_interface/ExtLib/SF-0402S400M-2.kicad_sym</uri>
+      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/SF-0402S400M-2.kicad_sym</uri>
     </library>
     <library logical="SF-0603S100-2">
-      <uri>/home/veriqloud/kiwi_pcb/supply_interface/ExtLib/SF-0603S100-2.kicad_sym</uri>
+      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/SF-0603S100-2.kicad_sym</uri>
     </library>
     <library logical="SF-0603S160-2">
-      <uri>/home/veriqloud/kiwi_pcb/supply_interface/ExtLib/SF-0603S160-2.kicad_sym</uri>
+      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/SF-0603S160-2.kicad_sym</uri>
     </library>
     <library logical="SF-0603SA600M-2">
-      <uri>/home/veriqloud/kiwi_pcb/supply_interface/ExtLib/SF-0603SA600M-2.kicad_sym</uri>
+      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/SF-0603SA600M-2.kicad_sym</uri>
     </library>
     <library logical="SF-0603SP080-2">
-      <uri>/home/veriqloud/kiwi_pcb/supply_interface/ExtLib/SF-0603SP080-2.kicad_sym</uri>
+      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/SF-0603SP080-2.kicad_sym</uri>
     </library>
     <library logical="SF-1206S1000R-2">
-      <uri>/home/veriqloud/kiwi_pcb/supply_interface/ExtLib/SF-1206S1000R-2.kicad_sym</uri>
+      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/SF-1206S1000R-2.kicad_sym</uri>
     </library>
     <library logical="SF-1206S300-2">
-      <uri>/home/veriqloud/kiwi_pcb/supply_interface/ExtLib/SF-1206S300-2.kicad_sym</uri>
+      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/SF-1206S300-2.kicad_sym</uri>
     </library>
     <library logical="SMF6V0TR">
-      <uri>/home/veriqloud/kiwi_pcb/supply_interface/ExtLib/SMF6V0TR.kicad_sym</uri>
+      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/SMF6V0TR.kicad_sym</uri>
     </library>
     <library logical="THN 30-1215">
-      <uri>/home/veriqloud/kiwi_pcb/supply_interface/ExtLib/THN_30-1215.kicad_sym</uri>
+      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/THN_30-1215.kicad_sym</uri>
     </library>
     <library logical="TR/3216FF20-R">
-      <uri>/home/veriqloud/kiwi_pcb/supply_interface/ExtLib/2026-07-02_12-48-03.kicad_sym</uri>
+      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/2026-07-02_12-48-03.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
