@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/lyes/kiwi_pcb/supply_interface/supply_interface.kicad_sch</source>
-    <date>Fri 03 Jul 2026 09:03:51 AM CEST</date>
+    <date>Thu 09 Jul 2026 11:35:38 AM CEST</date>
     <tool>Eeschema 7.0.11+dfsg-1build4</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1368,29 +1368,27 @@
       <tstamps>4bb03720-6608-4ab4-9b57-b2c42dc4277d</tstamps>
     </comp>
     <comp ref="J14">
-      <value>39-28-1043</value>
-      <footprint>39-28-1043</footprint>
-      <datasheet>https://www.molex.com/pdm_docs/sd/039281023_sd.pdf</datasheet>
+      <value>39-30-1041</value>
+      <footprint>39-30-104Y</footprint>
+      <datasheet>https://www.molex.com/pdm_docs/sd/039300020_sd.pdf</datasheet>
       <fields>
-        <field name="Description">Mini-Fit Jr. Vertical Header, 4.20mm Pitch, Dual Row, 4 Circuits, without Snap-in Plastic Peg PCB Lock, Tin, Natural</field>
-        <field name="Height">12.8</field>
+        <field name="Height">10</field>
         <field name="Manufacturer_Name">Molex</field>
-        <field name="Manufacturer_Part_Number">39-28-1043</field>
-        <field name="Mouser Part Number">538-39-28-1043</field>
-        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Molex/39-28-1043?qs=LQQHZ4xw2XCMHoV0KRLGhg%3D%3D</field>
+        <field name="Manufacturer_Part_Number">39-30-1041</field>
+        <field name="Mouser Part Number">538-39-30-1041</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Molex/39-30-1041?qs=tRPrwvvr%2FujuCDagC9gKwg%3D%3D</field>
       </fields>
-      <libsource lib="39-28-1043" part="39-28-1043" description="Mini-Fit Jr. Vertical Header, 4.20mm Pitch, Dual Row, 4 Circuits, without Snap-in Plastic Peg PCB Lock, Tin, Natural"/>
-      <property name="Description" value="Mini-Fit Jr. Vertical Header, 4.20mm Pitch, Dual Row, 4 Circuits, without Snap-in Plastic Peg PCB Lock, Tin, Natural"/>
-      <property name="Height" value="12.8"/>
-      <property name="Mouser Part Number" value="538-39-28-1043"/>
-      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Molex/39-28-1043?qs=LQQHZ4xw2XCMHoV0KRLGhg%3D%3D"/>
+      <libsource lib="39-30-1041" part="39-30-1041" description="Mini-Fit Jr. Header, Dual Row, Right-Angle, with Snap-in Plastic Peg PCB Lock, 4 Circuits, PA Polyamide Nylon 6/6 94V-0"/>
+      <property name="Height" value="10"/>
+      <property name="Mouser Part Number" value="538-39-30-1041"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Molex/39-30-1041?qs=tRPrwvvr%2FujuCDagC9gKwg%3D%3D"/>
       <property name="Manufacturer_Name" value="Molex"/>
-      <property name="Manufacturer_Part_Number" value="39-28-1043"/>
+      <property name="Manufacturer_Part_Number" value="39-30-1041"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="supply_interface.kicad_sch"/>
-      <property name="ki_description" value="Mini-Fit Jr. Vertical Header, 4.20mm Pitch, Dual Row, 4 Circuits, without Snap-in Plastic Peg PCB Lock, Tin, Natural"/>
+      <property name="ki_description" value="Mini-Fit Jr. Header, Dual Row, Right-Angle, with Snap-in Plastic Peg PCB Lock, 4 Circuits, PA Polyamide Nylon 6/6 94V-0"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>6b43f46b-5130-4caf-8bc2-14fdfed34ad0</tstamps>
+      <tstamps>ff86aaa9-3b3e-4772-beab-26994dd1e76e</tstamps>
     </comp>
     <comp ref="J15">
       <value>3-641215-2</value>
@@ -1537,28 +1535,6 @@
         <pin num="2" name="2" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="39-28-1043" part="39-28-1043">
-      <description>Mini-Fit Jr. Vertical Header, 4.20mm Pitch, Dual Row, 4 Circuits, without Snap-in Plastic Peg PCB Lock, Tin, Natural</description>
-      <docs>https://www.molex.com/pdm_docs/sd/039281023_sd.pdf</docs>
-      <fields>
-        <field name="Reference">J</field>
-        <field name="Value">39-28-1043</field>
-        <field name="Footprint">39-28-1043</field>
-        <field name="Datasheet">https://www.molex.com/pdm_docs/sd/039281023_sd.pdf</field>
-        <field name="Description">Mini-Fit Jr. Vertical Header, 4.20mm Pitch, Dual Row, 4 Circuits, without Snap-in Plastic Peg PCB Lock, Tin, Natural</field>
-        <field name="Height">12.8</field>
-        <field name="Mouser Part Number">538-39-28-1043</field>
-        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Molex/39-28-1043?qs=LQQHZ4xw2XCMHoV0KRLGhg%3D%3D</field>
-        <field name="Manufacturer_Name">Molex</field>
-        <field name="Manufacturer_Part_Number">39-28-1043</field>
-      </fields>
-      <pins>
-        <pin num="1" name="1" type="passive"/>
-        <pin num="2" name="2" type="passive"/>
-        <pin num="3" name="3" type="passive"/>
-        <pin num="4" name="4" type="passive"/>
-      </pins>
-    </libpart>
     <libpart lib="39-28-1063" part="39-28-1063">
       <description>6 way vertical PCB header,Mini-Fit Jr Molex MINI-FIT JR. Series, Series Number 5566, 4.2mm Pitch 6 Way 2 Row Straight PCB Header, Solder Termination, 9 A</description>
       <docs>https://www.molex.com/pdm_docs/sd/039281023_sd.pdf</docs>
@@ -1647,6 +1623,27 @@
         <pin num="22" name="22" type="passive"/>
         <pin num="23" name="23" type="passive"/>
         <pin num="24" name="24" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="39-30-1041" part="39-30-1041">
+      <description>Mini-Fit Jr. Header, Dual Row, Right-Angle, with Snap-in Plastic Peg PCB Lock, 4 Circuits, PA Polyamide Nylon 6/6 94V-0</description>
+      <docs>https://www.molex.com/pdm_docs/sd/039300020_sd.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">39-30-1041</field>
+        <field name="Footprint">39-30-104Y</field>
+        <field name="Datasheet">https://www.molex.com/pdm_docs/sd/039300020_sd.pdf</field>
+        <field name="Height">10</field>
+        <field name="Mouser Part Number">538-39-30-1041</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Molex/39-30-1041?qs=tRPrwvvr%2FujuCDagC9gKwg%3D%3D</field>
+        <field name="Manufacturer_Name">Molex</field>
+        <field name="Manufacturer_Part_Number">39-30-1041</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="ATV02W150-HF" part="ATV02W150-HF">
@@ -2026,6 +2023,9 @@
     <library logical="39-28-1083">
       <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/39-28-1083.kicad_sym</uri>
     </library>
+    <library logical="39-30-1041">
+      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/39-30-1041.kicad_sym</uri>
+    </library>
     <library logical="ATV02W150-HF">
       <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/ATV02W150-HF.kicad_sym</uri>
     </library>
@@ -2147,8 +2147,8 @@
       <node ref="C23" pin="1" pintype="passive"/>
       <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="F7" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="J14" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="J14" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J14" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J14" pin="4" pinfunction="4" pintype="passive"/>
     </net>
     <net code="12" name="/pm">
       <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
@@ -2260,8 +2260,8 @@
       <node ref="J1" pin="7" pinfunction="7" pintype="passive"/>
       <node ref="J12" pin="1" pinfunction="1" pintype="unspecified"/>
       <node ref="J13" pin="1" pinfunction="1" pintype="unspecified"/>
-      <node ref="J14" pin="3" pinfunction="3" pintype="passive"/>
-      <node ref="J14" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J14" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="J15" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="J2" pin="4" pinfunction="4" pintype="passive"/>
       <node ref="J2" pin="5" pinfunction="5" pintype="passive"/>
