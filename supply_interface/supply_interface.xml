@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/lyes/kiwi_pcb/supply_interface/supply_interface.kicad_sch</source>
-    <date>Thu 09 Jul 2026 11:35:38 AM CEST</date>
+    <date>Mon 27 Jul 2026 10:53:23 AM CEST</date>
     <tool>Eeschema 7.0.11+dfsg-1build4</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -956,26 +956,26 @@
     </comp>
     <comp ref="F5">
       <value>4A S.B</value>
-      <footprint>FUSC1005X61N</footprint>
-      <datasheet>https://componentsearchengine.com/Datasheets/1/SF-0402S400M-2.pdf</datasheet>
+      <footprint>FUSC1608X55N</footprint>
+      <datasheet>https://www.mouser.at/datasheet/2/54/sf0603s-777859.pdf</datasheet>
       <fields>
-        <field name="Height">0.61</field>
+        <field name="Height">0.55</field>
         <field name="Manufacturer_Name">Bourns</field>
-        <field name="Manufacturer_Part_Number">SF-0402S400M-2</field>
-        <field name="Mouser Part Number">652-SF-0402S400M-2</field>
-        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Bourns/SF-0402S400M-2?qs=rrS6PyfT74erFdxbytnNUg%3D%3D</field>
+        <field name="Manufacturer_Part_Number">SF-0603S400-2</field>
+        <field name="Mouser Part Number">652-SF-0603S400-2</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Bourns/SF-0603S400-2?qs=GIQXYiEeHGCHK92QR7oKqg%3D%3D</field>
       </fields>
-      <libsource lib="SF-0402S400M-2" part="SF-0402S400M-2" description="Surface Mount Fuses 4A Slow Blow 0402 SinglFuse"/>
-      <property name="Height" value="0.61"/>
-      <property name="Mouser Part Number" value="652-SF-0402S400M-2"/>
-      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Bourns/SF-0402S400M-2?qs=rrS6PyfT74erFdxbytnNUg%3D%3D"/>
+      <libsource lib="SF-0603S400-2" part="SF-0603S400-2" description="Surface Mount Fuses 4A Slow Blow 0603 SinglFuse"/>
+      <property name="Height" value="0.55"/>
+      <property name="Mouser Part Number" value="652-SF-0603S400-2"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Bourns/SF-0603S400-2?qs=GIQXYiEeHGCHK92QR7oKqg%3D%3D"/>
       <property name="Manufacturer_Name" value="Bourns"/>
-      <property name="Manufacturer_Part_Number" value="SF-0402S400M-2"/>
+      <property name="Manufacturer_Part_Number" value="SF-0603S400-2"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="supply_interface.kicad_sch"/>
-      <property name="ki_description" value="Surface Mount Fuses 4A Slow Blow 0402 SinglFuse"/>
+      <property name="ki_description" value="Surface Mount Fuses 4A Slow Blow 0603 SinglFuse"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>bf9da0fd-b9ec-4404-88d8-d319146f8952</tstamps>
+      <tstamps>6de4144a-dec8-4f85-9d84-43fdc38c25dc</tstamps>
     </comp>
     <comp ref="F6">
       <value>4A S.B</value>
@@ -1243,16 +1243,29 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f9ea5dd6-5c18-4af1-bd02-2c3f8517f81e</tstamps>
     </comp>
-    <comp ref="J4">
-      <value>MBES-152</value>
-      <footprint>CONN_MBES-152_ALT</footprint>
-      <datasheet>MBES-152</datasheet>
-      <libsource lib="MBES-152" part="MBES-152" description=""/>
+    <comp ref="J3">
+      <value>39-28-1043</value>
+      <footprint>39-28-1043</footprint>
+      <datasheet>https://www.molex.com/pdm_docs/sd/039281023_sd.pdf</datasheet>
+      <fields>
+        <field name="Description">Mini-Fit Jr. Vertical Header, 4.20mm Pitch, Dual Row, 4 Circuits, without Snap-in Plastic Peg PCB Lock, Tin, Natural</field>
+        <field name="Height">12.8</field>
+        <field name="Manufacturer_Name">Molex</field>
+        <field name="Manufacturer_Part_Number">39-28-1043</field>
+        <field name="Mouser Part Number">538-39-28-1043</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Molex/39-28-1043?qs=LQQHZ4xw2XCMHoV0KRLGhg%3D%3D</field>
+      </fields>
+      <libsource lib="39-28-1043" part="39-28-1043" description=""/>
+      <property name="Description" value="Mini-Fit Jr. Vertical Header, 4.20mm Pitch, Dual Row, 4 Circuits, without Snap-in Plastic Peg PCB Lock, Tin, Natural"/>
+      <property name="Height" value="12.8"/>
+      <property name="Mouser Part Number" value="538-39-28-1043"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Molex/39-28-1043?qs=LQQHZ4xw2XCMHoV0KRLGhg%3D%3D"/>
+      <property name="Manufacturer_Name" value="Molex"/>
+      <property name="Manufacturer_Part_Number" value="39-28-1043"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="supply_interface.kicad_sch"/>
-      <property name="ki_keywords" value="MBES-152"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>ed70fd00-f9fb-440a-94cb-26e560f6bb5a</tstamps>
+      <tstamps>6fd312d5-ee9a-4b94-a3ab-01d3bc9900b2</tstamps>
     </comp>
     <comp ref="J5">
       <value>282837-3</value>
@@ -1368,27 +1381,28 @@
       <tstamps>4bb03720-6608-4ab4-9b57-b2c42dc4277d</tstamps>
     </comp>
     <comp ref="J14">
-      <value>39-30-1041</value>
-      <footprint>39-30-104Y</footprint>
-      <datasheet>https://www.molex.com/pdm_docs/sd/039300020_sd.pdf</datasheet>
+      <value>39-28-1043</value>
+      <footprint>39-28-1043</footprint>
+      <datasheet>https://www.molex.com/pdm_docs/sd/039281023_sd.pdf</datasheet>
       <fields>
-        <field name="Height">10</field>
+        <field name="Description">Mini-Fit Jr. Vertical Header, 4.20mm Pitch, Dual Row, 4 Circuits, without Snap-in Plastic Peg PCB Lock, Tin, Natural</field>
+        <field name="Height">12.8</field>
         <field name="Manufacturer_Name">Molex</field>
-        <field name="Manufacturer_Part_Number">39-30-1041</field>
-        <field name="Mouser Part Number">538-39-30-1041</field>
-        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Molex/39-30-1041?qs=tRPrwvvr%2FujuCDagC9gKwg%3D%3D</field>
+        <field name="Manufacturer_Part_Number">39-28-1043</field>
+        <field name="Mouser Part Number">538-39-28-1043</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Molex/39-28-1043?qs=LQQHZ4xw2XCMHoV0KRLGhg%3D%3D</field>
       </fields>
-      <libsource lib="39-30-1041" part="39-30-1041" description="Mini-Fit Jr. Header, Dual Row, Right-Angle, with Snap-in Plastic Peg PCB Lock, 4 Circuits, PA Polyamide Nylon 6/6 94V-0"/>
-      <property name="Height" value="10"/>
-      <property name="Mouser Part Number" value="538-39-30-1041"/>
-      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Molex/39-30-1041?qs=tRPrwvvr%2FujuCDagC9gKwg%3D%3D"/>
+      <libsource lib="39-28-1043" part="39-28-1043" description=""/>
+      <property name="Description" value="Mini-Fit Jr. Vertical Header, 4.20mm Pitch, Dual Row, 4 Circuits, without Snap-in Plastic Peg PCB Lock, Tin, Natural"/>
+      <property name="Height" value="12.8"/>
+      <property name="Mouser Part Number" value="538-39-28-1043"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Molex/39-28-1043?qs=LQQHZ4xw2XCMHoV0KRLGhg%3D%3D"/>
       <property name="Manufacturer_Name" value="Molex"/>
-      <property name="Manufacturer_Part_Number" value="39-30-1041"/>
+      <property name="Manufacturer_Part_Number" value="39-28-1043"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="supply_interface.kicad_sch"/>
-      <property name="ki_description" value="Mini-Fit Jr. Header, Dual Row, Right-Angle, with Snap-in Plastic Peg PCB Lock, 4 Circuits, PA Polyamide Nylon 6/6 94V-0"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>ff86aaa9-3b3e-4772-beab-26994dd1e76e</tstamps>
+      <tstamps>935d70d0-a9ea-453d-94a3-90554105af22</tstamps>
     </comp>
     <comp ref="J15">
       <value>3-641215-2</value>
@@ -1535,6 +1549,27 @@
         <pin num="2" name="2" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="39-28-1043" part="39-28-1043">
+      <docs>https://www.molex.com/pdm_docs/sd/039281023_sd.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">39-28-1043</field>
+        <field name="Footprint">39-28-1043</field>
+        <field name="Datasheet">https://www.molex.com/pdm_docs/sd/039281023_sd.pdf</field>
+        <field name="Description">Mini-Fit Jr. Vertical Header, 4.20mm Pitch, Dual Row, 4 Circuits, without Snap-in Plastic Peg PCB Lock, Tin, Natural</field>
+        <field name="Height">12.8</field>
+        <field name="Mouser Part Number">538-39-28-1043</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Molex/39-28-1043?qs=LQQHZ4xw2XCMHoV0KRLGhg%3D%3D</field>
+        <field name="Manufacturer_Name">Molex</field>
+        <field name="Manufacturer_Part_Number">39-28-1043</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
     <libpart lib="39-28-1063" part="39-28-1063">
       <description>6 way vertical PCB header,Mini-Fit Jr Molex MINI-FIT JR. Series, Series Number 5566, 4.2mm Pitch 6 Way 2 Row Straight PCB Header, Solder Termination, 9 A</description>
       <docs>https://www.molex.com/pdm_docs/sd/039281023_sd.pdf</docs>
@@ -1623,27 +1658,6 @@
         <pin num="22" name="22" type="passive"/>
         <pin num="23" name="23" type="passive"/>
         <pin num="24" name="24" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="39-30-1041" part="39-30-1041">
-      <description>Mini-Fit Jr. Header, Dual Row, Right-Angle, with Snap-in Plastic Peg PCB Lock, 4 Circuits, PA Polyamide Nylon 6/6 94V-0</description>
-      <docs>https://www.molex.com/pdm_docs/sd/039300020_sd.pdf</docs>
-      <fields>
-        <field name="Reference">J</field>
-        <field name="Value">39-30-1041</field>
-        <field name="Footprint">39-30-104Y</field>
-        <field name="Datasheet">https://www.molex.com/pdm_docs/sd/039300020_sd.pdf</field>
-        <field name="Height">10</field>
-        <field name="Mouser Part Number">538-39-30-1041</field>
-        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Molex/39-30-1041?qs=tRPrwvvr%2FujuCDagC9gKwg%3D%3D</field>
-        <field name="Manufacturer_Name">Molex</field>
-        <field name="Manufacturer_Part_Number">39-30-1041</field>
-      </fields>
-      <pins>
-        <pin num="1" name="1" type="passive"/>
-        <pin num="2" name="2" type="passive"/>
-        <pin num="3" name="3" type="passive"/>
-        <pin num="4" name="4" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="ATV02W150-HF" part="ATV02W150-HF">
@@ -1850,6 +1864,25 @@
         <pin num="2" name="2" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="SF-0603S400-2" part="SF-0603S400-2">
+      <description>Surface Mount Fuses 4A Slow Blow 0603 SinglFuse</description>
+      <docs>https://www.mouser.at/datasheet/2/54/sf0603s-777859.pdf</docs>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">SF-0603S400-2</field>
+        <field name="Footprint">FUSC1608X55N</field>
+        <field name="Datasheet">https://www.mouser.at/datasheet/2/54/sf0603s-777859.pdf</field>
+        <field name="Height">0.55</field>
+        <field name="Mouser Part Number">652-SF-0603S400-2</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Bourns/SF-0603S400-2?qs=GIQXYiEeHGCHK92QR7oKqg%3D%3D</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">SF-0603S400-2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
     <libpart lib="SF-0603SA600M-2" part="SF-0603SA600M-2">
       <description>Automotive Grade Slow Blow SMD Fuses</description>
       <docs>https://www.bourns.com/docs/product-datasheets/sf-0603sa-m.pdf?sfvrsn=b5654bf6_13</docs>
@@ -2017,14 +2050,14 @@
     <library logical="3403.0157.24">
       <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/3403_0157_24.kicad_sym</uri>
     </library>
+    <library logical="39-28-1043">
+      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/39-28-1043.lib</uri>
+    </library>
     <library logical="39-28-1063">
       <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/39-28-1063.kicad_sym</uri>
     </library>
     <library logical="39-28-1083">
       <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/39-28-1083.kicad_sym</uri>
-    </library>
-    <library logical="39-30-1041">
-      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/39-30-1041.kicad_sym</uri>
     </library>
     <library logical="ATV02W150-HF">
       <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/ATV02W150-HF.kicad_sym</uri>
@@ -2052,6 +2085,9 @@
     </library>
     <library logical="SF-0603S160-2">
       <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/SF-0603S160-2.kicad_sym</uri>
+    </library>
+    <library logical="SF-0603S400-2">
+      <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/SF-0603S400-2.kicad_sym</uri>
     </library>
     <library logical="SF-0603SA600M-2">
       <uri>/home/lyes/kiwi_pcb/supply_interface/ExtLib/SF-0603SA600M-2.kicad_sym</uri>
@@ -2139,7 +2175,8 @@
       <node ref="C14" pin="1" pintype="passive"/>
       <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="F6" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="J4" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="J3" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="4" pintype="passive"/>
     </net>
     <net code="11" name="/pc">
       <node ref="C21" pin="2" pinfunction="2" pintype="passive"/>
@@ -2266,7 +2303,8 @@
       <node ref="J2" pin="4" pinfunction="4" pintype="passive"/>
       <node ref="J2" pin="5" pinfunction="5" pintype="passive"/>
       <node ref="J2" pin="6" pinfunction="6" pintype="passive"/>
-      <node ref="J4" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="J3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="J5" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="J7" pin="5" pinfunction="5" pintype="passive"/>
       <node ref="J7" pin="6" pinfunction="6" pintype="passive"/>

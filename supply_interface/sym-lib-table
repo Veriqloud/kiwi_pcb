@@ -39,4 +39,6 @@
   (lib (name "SF-0603SA600M-2")(type "KiCad")(uri "${KIPRJMOD}/ExtLib/SF-0603SA600M-2.kicad_sym")(options "")(descr ""))
   (lib (name "SF-0603S160-2")(type "KiCad")(uri "${KIPRJMOD}/ExtLib/SF-0603S160-2.kicad_sym")(options "")(descr ""))
   (lib (name "39-30-1041")(type "KiCad")(uri "${KIPRJMOD}/ExtLib/39-30-1041.kicad_sym")(options "")(descr ""))
+  (lib (name "SF-0603S400-2")(type "KiCad")(uri "${KIPRJMOD}/ExtLib/SF-0603S400-2.kicad_sym")(options "")(descr ""))
+  (lib (name "39-28-1043")(type "Legacy")(uri "${KIPRJMOD}/ExtLib/39-28-1043.lib")(options "")(descr ""))
 )
